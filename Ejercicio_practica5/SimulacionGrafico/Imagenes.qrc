@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/ave">
+        <file>pajaro.png</file>
+    </qresource>
+</RCC>
